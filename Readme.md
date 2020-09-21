@@ -6,7 +6,7 @@ UI based python desktop application for installing, uninstalling and updating py
 
 ## Requirements
  * Python > 3.0 
- * <a href="">Activestate tcl (for linux and mac)</a>
+ * <a href="https://www.activestate.com/products/tcl/">Activestate tcl (for linux and mac)</a>
     
 ## Installation
  
