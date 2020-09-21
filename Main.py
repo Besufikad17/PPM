@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import *
 from tkinter import messagebox, filedialog
 from tkinter import ttk
-from util.util import *
+from .util.util import *
 
 
 class App:
