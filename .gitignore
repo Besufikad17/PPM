@@ -1,0 +1,6 @@
+/venv/
+/build/
+/dist/
+/Main.spec
+/test.py
+/log.txt
