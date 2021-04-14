@@ -113,7 +113,7 @@ class App:
         self.create_popup(self.home_content, True)
         console_output = read_log_file(s)
         self.MAX = len(console_output)
-        try:
+        :
             for j in range(0, len(console_output)):
                 p = p + 1
                 unit = percentage_calculator(p, len(console_output), case=2)
